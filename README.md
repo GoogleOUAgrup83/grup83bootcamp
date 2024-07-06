@@ -14,11 +14,18 @@ Takım 83
 
 ## Ürün İsmi
 
---The History of Ages--
+##The History of Ages##
+
+![logo3](https://github.com/GoogleOUAgrup83/grup83bootcamp/assets/73022743/7690b0ed-b74b-4d03-8c57-067015766d1c)
+
 
 ## Ürün Açıklaması
 
 - Hazır olun, tarihin derinliklerine yolculuk için VR teknolojisiyle donanmış bir maceraya çıkıyorsunuz! The History of Ages, bilim kurgu ve tarihin birleştiği benzersiz bir deneyim sunar. Oyuncular, geçmişin dönüm noktalarında tanıklık etmek için zamanda yolculuğa çıkarılır, büyüleyici hikayelerin ve tarihi olayların içine adım atarlar.
+
+  
+![tema](https://github.com/GoogleOUAgrup83/grup83bootcamp/assets/73022743/fb261cd8-5dc2-4c38-a56d-ede02d57fffc)
+
 
 ## Ürün Özellikleri
 
