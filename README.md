@@ -63,21 +63,38 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1d30VBmPUvaZGF7qhi1c_idd3IozRIp1sjcONuemrcm0/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 1](https://github.com/GoogleOUAgrup83/grup83bootcamp/assets/73022743/a37d611a-78d9-4b80-a003-31941fa2c72a).
+![Backlog 2](https://github.com/GoogleOUAgrup83/grup83bootcamp/assets/73022743/555ad2ed-2e07-4cf7-ae6d-75742150451b) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/GoogleOUAgrup83/grup83bootcamp/assets/73022743/1a357553-693c-4f4b-9afd-8f52ac369c10)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar:
+1-Platform Seçimi (VR Gözlük): Oyunun VR gözlük platformunda geliştirilmesi kararlaştırıldı.
+
+2-Oyunun Ana Hikayesi Hakkında Toplantı Yapılması: Ekip üyeleri tarafından oyunun ana hikayesi belirlenmek üzere en az bir saat sürecek bir toplantı yapılması planlandı ve tamamlandı.
+
+3-Oyun Senaryosu Belirlendikten Sonra Gerekli Asset Araştırması: Ekip üyelerine dağıtılan konu başlıklarına göre ilgili assetlerin araştırılması ve en uygun olanların seçilmesi için çalışmalar yapıldı.
+
+4-Unity Versiyonunun Ekip Üyeleri Tarafından Kurulması: Tüm ekip üyelerinin 2022.3.12f1 Unity versiyonunu kurması gerektiği belirtildi ve kurulumlar tamamlandı.
+
+5-VR Karakter Tasarımına Başlanması: Ekip üyeleri, ilgili eğitim videolarını referans alarak VR ortamında kullanılacak karakterlerin tasarımına başladılar ve tasarımlarını ekran görüntüleriyle paylaştılar.
+
+6-Unity Dosyalarının GitHub'a Pushlanması: Scrum Master veya bir ekip üyesi, Unity dosyalarını GitHub reposuna en geç 09/07/2024 tarihine kadar pushlayacak ve işlem tamamlanacak. 
+
+Sprint Review katılımcıları:
+- Feride İçöz: Product Owner
+- Fatih Eren: Scrum Master
+- Ferhan Sönmez: Team Member/Developer
+- Furkan Akgül: Team Member/Developer
+- Fatmanur Yılmaz: Team Member/Developer
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içindeki görev dağılımı belirlenmiştir. 
+  - Sprint 2 için biraz daha hızlanmak gerektiğine karar verilmiştir.
+  - Sprint 2'de en az 3 bölüm tamanlanması gerektiğinde fikir birliği sağlanmıştır.
+  - Haftada 3 toplantı yapılmasında mutabık kalınmıştır. Salı ve Cuma günleri saat 19:00'da toplantı düzenlenmeye devam edecektir. Pazar günü ise katılım isteğe bağlı olacaktır!
 
 -**Diğer Notlar**:
 - The History of Ages, tarihi merak edenler ve yenilikçi oyun deneyimleri arayanlar için birinci sınıf bir VR macerası sunar. Hazır olun, geçmişin kapılarını aralayın ve tarih boyunca unutulmaz bir yolculuğa çıkın!
