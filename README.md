@@ -119,7 +119,7 @@ Sprint Review katılımcıları:
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1d30VBmPUvaZGF7qhi1c_idd3IozRIp1sjcONuemrcm0/edit?usp=sharing)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1d30VBmPUvaZGF7qhi1c_idd3IozRIp1sjcONuemrcm0/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/user-attachments/assets/5e0d2582-9dee-490f-89f2-a84c7fcb5525)
@@ -143,13 +143,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   **4. Bölüm: Rönesans ve Leonardo da Vinci**
   ![IMG-20240720-WA0010](https://github.com/user-attachments/assets/cb440e5b-fad1-43a9-bcc3-5d8885424b3c)
   ![IMG-20240720-WA0011](https://github.com/user-attachments/assets/bdb92332-04b6-4682-96d6-516974692cb7)
-
-
-
-
-
-
-
 
 
 - **Sprint Review**: 
