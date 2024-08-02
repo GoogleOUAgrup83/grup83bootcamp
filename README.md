@@ -6,9 +6,8 @@ Takım 83
 
 ## Takım Elemanları
 
-- Feride İçöz: Product Owner
 - Fatih Eren: Scrum Master
-- Ferhan Sönmez: Team Member/Developer
+- Ferhan Sönmez: Product Owner
 - Furkan Akgül: Team Member/Developer
 - Fatmanur Yılmaz: Team Member/Developer
 
@@ -91,9 +90,8 @@ Alınan kararlar:
 6-Unity Dosyalarının GitHub'a Pushlanması: Scrum Master veya bir ekip üyesi, Unity dosyalarını GitHub reposuna en geç 09/07/2024 tarihine kadar pushlayacak ve işlem tamamlanacak. 
 
 Sprint Review katılımcıları:
-- Feride İçöz: Product Owner
 - Fatih Eren: Scrum Master
-- Ferhan Sönmez: Team Member/Developer
+- Ferhan Sönmez: Product Owner
 - Furkan Akgül: Team Member/Developer
 - Fatmanur Yılmaz: Team Member/Developer
 
@@ -179,4 +177,54 @@ Sprint Review katılımcıları:
 
 # Sprint 3
 
+**Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü ve son sprint'in 100 puan ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1d30VBmPUvaZGF7qhi1c_idd3IozRIp1sjcONuemrcm0/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![image](https://github.com/user-attachments/assets/5e0d2582-9dee-490f-89f2-a84c7fcb5525)
+![image](https://github.com/user-attachments/assets/a561d6f3-4088-4b6a-8530-152c675e9e0c)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  **Tanıtım Videosu: **
+  ![video](https://youtu.be/TufVcjtOagc)
+
+
+- **Sprint Review**: 
+Alınan kararlar:
+1-Oyun geliştirme sürecinin ortak karara göre devam ettirilmesi.
+
+2-Oyunun ilk bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
+
+3-Oyunun ikinci bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
+
+4-Oyunun üçüncü bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
+
+5-Oyunun dördüncü bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
+
+6-Unity Dosyalarının GitHub'a Pushlanması: Scrum Master veya bir ekip üyesi, Unity dosyalarını GitHub reposuna en geç 23/07/2024 tarihine kadar pushlayacak ve işlem tamamlanacak. 
+
+Sprint Review katılımcıları:
+- Fatih Eren: Scrum Master
+- Ferhan Sönmez: Team Member/Developer
+- Furkan Akgül: Team Member/Developer
+- Fatmanur Yılmaz: Team Member/Developer
+
+- **Sprint Retrospective:**
+  - Oyun senaryosu için görev dağılımı belirlenmiştir. 
+  - Sprint 3 için biraz daha hızlanmak gerektiğine karar verilmiştir.
+  - Sprint 3'de kalan bölümlerin tamanlanması gerektiğinde fikir birliği sağlanmıştır.
+  - Haftada her gün toplantı yapılmasında mutabık kalınmıştır. Saat 19:00'da toplantı düzenlenmeye devam edecektir. Pazar günü ise katılım isteğe bağlı olacaktır!
+
+-**Diğer Notlar**:
+- The History of Ages, tarihi merak edenler ve yenilikçi oyun deneyimleri arayanlar için birinci sınıf bir VR macerası sunar. Hazır olun, geçmişin kapılarını aralayın ve tarih boyunca unutulmaz bir yolculuğa çıkın!
 ---
