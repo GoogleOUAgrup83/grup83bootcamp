@@ -196,7 +196,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
   **Tanıtım Videosu: **
-  [![Awesome Video](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/TufVcjtOagc)
+  [![Awesome Video](https://i.ytimg.com/an_webp/TufVcjtOagc/mqdefault_6s.webp?du=3000&sqp=CIXis7UG&rs=AOn4CLBbAALgVjoFGqJ4jhPjKTZF8HZ-zg)](https://youtu.be/TufVcjtOagc)
 
 
 - **Sprint Review**: 
