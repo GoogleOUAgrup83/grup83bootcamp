@@ -57,6 +57,7 @@ Takım 83
 ## Oyun Dosyaları URL
 
 [Dosya Boyutu Büyük Olduğundan Google Drive Linki Olarak Her Şey Paylaşılmıştır!](https://drive.google.com/file/d/1P6Vl3ewB_lKFBF_uLvhDVAb4Cg6aD68s/view?usp=sharing)
+[OYUN OYNAMAK İÇİN GEREKLİ SETUP DOSYASI:](https://drive.google.com/drive/folders/1va5tgDuof0uD1rlgRQnk_Ix0DN1QlNKu?usp=sharing)
 
 ---
 
