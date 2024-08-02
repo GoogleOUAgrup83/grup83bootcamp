@@ -54,6 +54,12 @@ Takım 83
 
 ---
 
+## Oyun Dosyaları URL
+
+[Dosya Boyutu Büyük Olduğundan Google Drive Linki Olarak Her Şey Paylaşılmıştır!](https://drive.google.com/file/d/1P6Vl3ewB_lKFBF_uLvhDVAb4Cg6aD68s/view?usp=sharing)
+
+---
+
 # Sprint 1
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
@@ -187,34 +193,37 @@ Sprint Review katılımcıları:
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1d30VBmPUvaZGF7qhi1c_idd3IozRIp1sjcONuemrcm0/edit?usp=sharing)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1d30VBmPUvaZGF7qhi1c_idd3IozRIp1sjcONuemrcm0/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![image](https://github.com/user-attachments/assets/5e0d2582-9dee-490f-89f2-a84c7fcb5525)
-![image](https://github.com/user-attachments/assets/a561d6f3-4088-4b6a-8530-152c675e9e0c)
+![image](https://github.com/user-attachments/assets/f8051883-9e9a-4b6f-8423-03b49ffcd6d1)
+
+![image](https://github.com/user-attachments/assets/baffa9ed-bc58-4c20-97c3-ee29a3fa4947)
+
+![image](https://github.com/user-attachments/assets/e1815968-4b24-49bf-98ba-be835c7ee653)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   **Tanıtım Videosu: **
 
 
-
   [![Awesome Video](https://i.ytimg.com/vi/TufVcjtOagc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBk5-aw_-3e6imXX-B1uT83vp5peA)](https://youtu.be/TufVcjtOagc)
+
+
+- **Ürünün Desteklediği Platformlar**:
+- ![image](https://github.com/user-attachments/assets/dcdd1968-6862-44ac-b224-b85e2e909e85)
 
 
 - **Sprint Review**: 
 Alınan kararlar:
+
 1-Oyun geliştirme sürecinin ortak karara göre devam ettirilmesi.
 
-2-Oyunun ilk bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
+2-Oyunun dördüncü bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
 
-3-Oyunun ikinci bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
+3-Oyunun beşinci bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
 
-4-Oyunun üçüncü bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
-
-5-Oyunun dördüncü bölümünün senaryo metnine bağlı kalarak uygun ortamın geliştirilmesi.
-
-6-Unity Dosyalarının GitHub'a Pushlanması: Scrum Master veya bir ekip üyesi, Unity dosyalarını GitHub reposuna en geç 23/07/2024 tarihine kadar pushlayacak ve işlem tamamlanacak. 
+4-Unity Dosyalarının GitHub'a Pushlanması: Scrum Master veya bir ekip üyesi, Unity dosyalarını GitHub reposuna en geç 02/08/2024 tarihine kadar pushlayacak ve işlem tamamlanacak. 
 
 Sprint Review katılımcıları:
 - Fatih Eren: Scrum Master
